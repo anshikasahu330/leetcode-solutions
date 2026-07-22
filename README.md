@@ -18,8 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [1929-concatenation-of-array](https://github.com/anshikasahu330/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/anshikasahu330/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
