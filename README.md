@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0412-fizz-buzz](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anshikasahu330/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
