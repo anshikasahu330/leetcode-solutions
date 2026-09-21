@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
