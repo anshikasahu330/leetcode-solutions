@@ -143,10 +143,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
