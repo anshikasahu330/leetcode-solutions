@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anshikasahu330/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Greedy
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
