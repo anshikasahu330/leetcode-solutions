@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0412-fizz-buzz](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anshikasahu330/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0509-fibonacci-number](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -180,4 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/anshikasahu330/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
